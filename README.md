@@ -1,5 +1,5 @@
 # TokyoBabylon
-~~~Haoge Niubi~~~
+Haoge Niubi
 
 ---
 - Remember to active python venv.
